@@ -82,7 +82,7 @@ After you download the latest version, you must extract the installation files b
   
 The default installation location is C:\Program Files\Microsoft SQL Server Migration Assistant for MySQL.  
   
-On 64-bit Windows machine the product is installed in C:\Microsoft SQL Server Migration Assistant for MySQL.  
+On 64-bit Windows machine the product is installed in C:\Program Files\Microsoft SQL Server Migration Assistant for MySQL.  
   
 ## See Also  
 [Migrating MySQL Databases to SQL Server - Azure SQL DB &#40;MySQLToSql&#41;](../../ssma/mysql/migrating-mysql-databases-to-sql-server-azure-sql-db-mysqltosql.md)  
